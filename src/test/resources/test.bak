@@ -1,0 +1,12 @@
+void	close()
+Closes the stream, flushing it first.
+void	flush()
+Flushes the stream.
+void	newLine()
+Writes a line separator.
+void	write(char[] cbuf, int off, int len)
+Writes a portion of an array of characters.
+void	write(int c)
+Writes a single character.
+void	write(String s, int off, int len)
+Writes a portion of a String.

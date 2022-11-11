@@ -1,0 +1,6 @@
+Closes the stream, flushing it first.
+Flushes the stream.
+Writes a line separator.
+Writes a portion of an array of characters.
+Writes a single character.
+Writes a portion of a String.

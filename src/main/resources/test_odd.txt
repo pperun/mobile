@@ -1,0 +1,6 @@
+void	close()
+void	flush()
+hello world replacement
+void	write(char[] cbuf, int off, int len)
+void	write(int c)
+void	write(String s, int off, int len)
